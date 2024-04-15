@@ -1,4 +1,11 @@
 {
-  "recommendations": ["astro-build.astro-vscode"],
+  "recommendations": [
+    "astro-build.astro-vscode",
+    "esbenp.prettier-vscode",
+    "EditorConfig.EditorConfig",
+    "syler.sass-indented",
+    "rvest.vs-code-prettier-eslint",
+    "steoates.autoimport"
+  ],
   "unwantedRecommendations": []
 }

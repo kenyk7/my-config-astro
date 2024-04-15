@@ -1,5 +1,6 @@
 # build output
 dist/
+out/
 
 # generated types
 .astro/
@@ -22,3 +23,7 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# others
+.npmrc
+my-codeartifact.ps1
