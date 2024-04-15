@@ -5,7 +5,8 @@
     "EditorConfig.EditorConfig",
     "syler.sass-indented",
     "rvest.vs-code-prettier-eslint",
-    "steoates.autoimport"
+    "steoates.autoimport",
+    "mike-co.import-sorter"
   ],
   "unwantedRecommendations": []
 }

@@ -6,5 +6,6 @@
   },
   "[typescript]": {
     "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
-  }
+  },
+  "importSorter.generalConfiguration.sortOnBeforeSave": true
 }
