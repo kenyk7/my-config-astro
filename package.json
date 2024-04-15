@@ -1,7 +1,11 @@
 {
-  "name": "auna-salud-astro",
+  "name": "my-config-astro",
+  "license": "MIT",
   "type": "module",
   "version": "0.0.1",
+  "engines": {
+    "node": ">= 18.19.0"
+  },
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
