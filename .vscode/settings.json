@@ -7,6 +7,9 @@
   "[typescript]": {
     "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
   },
+  "[scss]": {
+    "editor.defaultFormatter": "dweber019.vscode-style-formatter"
+  },
   "importSorter.generalConfiguration.sortOnBeforeSave": true,
   "importSorter.sortConfiguration.customOrderingRules.rules": [
     {

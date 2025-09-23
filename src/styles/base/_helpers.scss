@@ -1,0 +1,21 @@
+.ratio {
+  position: relative;
+  width: 100%;
+
+  > * {
+    width: 100%;
+    height: 100%;
+  }
+
+  &-4x3 {
+    aspect-ratio: 4 / 3;
+  }
+
+  &-16x9 {
+    aspect-ratio: 16 / 9;
+  }
+
+  &-9x16 {
+    aspect-ratio: 9 / 15.8;
+  }
+}

@@ -4,6 +4,7 @@ out/
 
 # generated types
 .astro/
+.vite/
 
 # dependencies
 node_modules/

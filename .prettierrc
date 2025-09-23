@@ -2,5 +2,18 @@
   "tabWidth": 2,
   "trailingComma": "es5",
   "singleQuote": true,
-  "semi": true
+  "semi": true,
+  "importOrder": [
+    "<TYPES>",
+    "<TYPES>^[.]",
+    "",
+    "^react$",
+    "",
+    "<THIRD_PARTY_MODULES>",
+    "",
+    "^(@)(/.*)$",
+    "",
+    "^[.]"
+  ],
+  "plugins": ["prettier-plugin-astro", "@ianvs/prettier-plugin-sort-imports"]
 }
